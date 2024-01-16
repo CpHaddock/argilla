@@ -35,6 +35,7 @@ These are the section headers that we use:
 ### Fixed
 
 - Paginating to a new record, automatically scrolls down to selected form area ([#4333](https://github.com/argilla-io/argilla/pull/4333))
+- Fixed a typo in one of the pip installs in making-most-of-markdown.ipynb ([#4484](https://github.com/argilla-io/argilla/pull/4484))
 
 ### Deprecated
 
